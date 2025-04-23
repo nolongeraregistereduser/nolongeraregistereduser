@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! This is M0H4M3D Z0UH4IRI AKA FL4X</h1>
 <h3 align="center">Full Stack Developer & Network & Systems Admin | Passionate about Tech</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nolongeraregistereduser&label=Profile%20views&color=0e75b6&style=flat" alt="nolongeraregistereduser" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nolongeraregistereduser" alt="nolongeraregistereduser" /></a> </p>
 
 - 🔭 I’m currently working on [Lejob.ma](https://lejob.ma)
 
@@ -30,6 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nolongeraregistereduser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nolongeraregistereduser" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolongeraregistereduser&show_icons=true&locale=en&layout=compact" alt="nolongeraregistereduser" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nolongeraregistereduser&show_icons=true&locale=en" alt="nolongeraregistereduser" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolongeraregistereduser&show_icons=true&locale=en&layout=compact" alt="nolongeraregistereduser" /></p>
