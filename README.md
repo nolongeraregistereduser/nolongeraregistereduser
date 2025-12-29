@@ -83,6 +83,5 @@ Clean code, strong architecture, zero panic in production.
 ###
 
 <p align="center">
-🚀 Currently learning more about Spring Security, JWT, Docker & system design  
-🎯 Goal: Build production-grade backend systems  
+LetsGOO
 </p>
