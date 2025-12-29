@@ -4,20 +4,8 @@
 I'm Mohamed Zouhairi — Software Engineer & Backend Developer from Morocco 🇲🇦
 </h3>
 
-###
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  pause=900&
-  color=58A6FF&
-  center=true&
-  vCenter=true&
-  width=800&
-  lines=Hey%2C+I'm+Mohamed+Zouhairi+👋;
-  Backend+Engineer+who+loves+clean+architecture+⚙️;
-  Turning+coffee+☕+into+secure+and+scalable+systems;
-  From+Morocco+🇲🇦+to+production+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mohed+Zouhairi+👋;Backend+Engineer+who+loves+clean+architecture+⚙️;Turning+coffee+☕+into+secure+and+scalable+systems;From+Morocco+🇲🇦+to+production+🚀" />
 </p>
 
 ###
