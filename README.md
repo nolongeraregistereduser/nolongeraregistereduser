@@ -1,8 +1,8 @@
 <h1 align="center">Hey, what's up? :p </h1>
-<h2 align="center">
+<p align="center">
 I design backend systems that survive traffic spikes, bad inputs, and future me.
 Clean code, strong architecture, zero panic in production.
-</h2>
+</p>
 
 
 
