@@ -1,13 +1,9 @@
 <h1 align="center">Hey, what's up? :p </h1>
-
-<h3 align="center">
-I'm Mo — Software Engineer & Backend Developer from Morocco
-</h3>
-
 <p align="center">
-I build robust backend systems focused on clean architecture, security, and scalability.
-I enjoy designing APIs, solving real-world problems, and turning complex ideas into reliable production software.
+I design backend systems that survive traffic spikes, bad inputs, and future me.
+Clean code, strong architecture, zero panic in production.
 </p>
+
 
 
 ###
