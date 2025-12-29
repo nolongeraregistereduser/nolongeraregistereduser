@@ -7,8 +7,17 @@ I'm Mohamed Zouhairi — Software Engineer & Backend Developer from Morocco 🇲
 ###
 
 <p align="center">
-Passionate about backend development, distributed systems, and clean architectures.
-I enjoy building secure, scalable applications and working on real-world projects.
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  pause=900&
+  color=58A6FF&
+  center=true&
+  vCenter=true&
+  width=800&
+  lines=Hey%2C+I'm+Mohamed+Zouhairi+👋;
+  Backend+Engineer+who+loves+clean+architecture+⚙️;
+  Turning+coffee+☕+into+secure+and+scalable+systems;
+  From+Morocco+🇲🇦+to+production+🚀" />
 </p>
 
 ###
