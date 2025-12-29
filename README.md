@@ -1,12 +1,14 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey, what's up? :p </h1>
 
 <h3 align="center">
-I'm Mohamed Zouhairi — Software Engineer & Backend Developer from Morocco 🇲🇦
+I'm Mo — Software Engineer & Backend Developer from Morocco
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mohed+Zouhairi+👋;Backend+Engineer+who+loves+clean+architecture+⚙️;Turning+coffee+☕+into+secure+and+scalable+systems;From+Morocco+🇲🇦+to+production+🚀" />
+I build robust backend systems focused on clean architecture, security, and scalability.
+I enjoy designing APIs, solving real-world problems, and turning complex ideas into reliable production software.
 </p>
+
 
 ###
 
